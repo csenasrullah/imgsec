@@ -30,7 +30,7 @@ You must reload the interface to decrypt an image after encrypting. To do that, 
 
 
 
-## Appriciation
+## Appreciation
 This project is highly inspired by @TheNinza. In other words, I just give it a graphic look. Please have a look at his projects too.
 
 
