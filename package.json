@@ -1,0 +1,26 @@
+{
+  "name": "imgsec",
+  "productName": "imgsec",
+  "version": "1.0.0",
+  "description": "An Image Encryption and Decryption Application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "build": {
+    "win": {
+      "icon": "./renderer/images/nbg.ico"
+    }
+  },
+  "author": "Md. Nasrullah",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^26.1.0"
+  },
+  "dependencies": {
+    "electron-is-dev": "^2.0.0",
+    "electron-window-state": "^5.0.3",
+    "jimp": "^0.22.10",
+    "toastify-js": "^1.12.0"
+  }
+}
