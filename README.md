@@ -1,4 +1,4 @@
-# imgsec
+# Introduction
 
 'imgsec' is an image encryption and decryption desktop application. It used the XOR encryption algorithm to encrypt the image using a random key, and then later on, it used that same key to decrypt the image.
 
